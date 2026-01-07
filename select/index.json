@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "花の塔",
+  "base_artist": "SAYURI",
+  "createdAt": "2026-01-07T12:00:18.321042Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "花の塔",
+      "artist": "Sayuri",
+      "has_synced": false,
+      "path": "select/01_花の塔_Sayuri.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "花の塔",
+      "artist": "さユり",
+      "has_synced": true,
+      "path": "select/02_花の塔_さユり.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "花の塔",
+      "artist": "Sayuri",
+      "has_synced": true,
+      "path": "select/03_花の塔_Sayuri.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "花の塔",
+      "artist": "さユり",
+      "has_synced": true,
+      "path": "select/04_花の塔_さユり.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "花の塔 - Tower of Flower",
+      "artist": "SAYURI",
+      "has_synced": true,
+      "path": "select/05_花の塔_-_Tower_of_Flower_SAYURI.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "花の塔",
+      "artist": "さユり",
+      "has_synced": true,
+      "path": "select/06_花の塔_さユり.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "花の塔",
+      "artist": "Sayuri",
+      "has_synced": true,
+      "path": "select/07_花の塔_Sayuri.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "花の塔",
+      "artist": "さユり",
+      "has_synced": false,
+      "path": "select/pl_01_花の塔_さユり.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "花の塔",
+      "artist": "さユり",
+      "has_synced": false,
+      "path": "select/pl_02_花の塔_さユり.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "花の塔",
+      "artist": "さユり",
+      "has_synced": false,
+      "path": "select/pl_03_花の塔_さユり.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "花の塔",
+      "artist": "さユり",
+      "has_synced": false,
+      "path": "select/pl_04_花の塔_さユり.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "花の塔",
+      "artist": "さユり",
+      "has_synced": false,
+      "path": "select/pl_05_花の塔_さユり.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "花の塔",
+      "artist": "さユり",
+      "has_synced": false,
+      "path": "select/pl_06_花の塔_さユり.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "花の塔",
+      "artist": "さユり",
+      "has_synced": false,
+      "path": "select/pl_07_花の塔_さユり.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "花の塔",
+      "artist": "さユり",
+      "has_synced": false,
+      "path": "select/pl_08_花の塔_さユり.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "花の塔",
+      "artist": "さユり",
+      "has_synced": false,
+      "path": "select/pl_09_花の塔_さユり.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "花の塔",
+      "artist": "さユり",
+      "has_synced": false,
+      "path": "select/pl_10_花の塔_さユり.txt"
+    }
+  ]
+}
